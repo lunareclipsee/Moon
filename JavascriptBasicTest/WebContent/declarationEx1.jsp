@@ -7,9 +7,11 @@
    <title>Insert title here</title>
    <script type="text/javascript">
 		  		
-   		var a = 3;
-   		var b = 5;
+   		var a = 1;
+   		var b = 7;
    		var result = 0;
+   		
+   	 	document.write(result=a+b+'<br>');
    		  		
    		result = a+b;
    		document.write(result+'<br>');
